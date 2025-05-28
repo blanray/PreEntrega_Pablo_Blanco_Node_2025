@@ -1,0 +1,23 @@
+{
+  "name": "preentrega_pablo_blanco",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TalentoTech",
+    "Pablo Blanco"
+  ],
+  "author": "Pablo Blanco",
+  "license": "ISC",
+  "description": "PreEntrega Node Pablo Blanco",
+  "dependencies": {
+     "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
